@@ -1,0 +1,16 @@
+{
+  "name": "api-node-csv",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "API para realizar CRUD de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Wellington R Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.1"
+  }
+}
