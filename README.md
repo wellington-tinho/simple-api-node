@@ -40,7 +40,7 @@ Antes da alteração, deve ser feito uma validação se o `id` pertence a uma ta
 
 <details>
   <summary>Importação de tasks em massa por um arquivo CSV</summary>
- Criar automaticamente na raiz de projeto um arquivo de CSV, que funcionará como nosso Banco da Dados
+ Ler dados do arquivo csv e popular no nosso banco em json
 </details>
 
 
